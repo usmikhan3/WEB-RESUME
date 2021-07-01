@@ -222,7 +222,7 @@ class SideBar extends StatelessWidget {
               ),
 
               InkWell(
-                  onTap: ()=>downloadFile("https://drive.google.com/file/d/1rLgtsNQqZVZ1_CgG2JBb_2EXfxqAZAmZ/view?usp=sharing"),
+                  onTap: ()=>downloadFile("https://drive.google.com/file/d/1wEY9C8fbYp4KE9E84EWdtaNOkowfiFnc/view?usp=sharing"),
                   child: ContainerHeading(text: "Download Pdf",)),
               SizedBox(
                 height: height / 30,
